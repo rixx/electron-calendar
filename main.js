@@ -23,7 +23,7 @@ function createWindow () {
   mainWindow.loadURL('http://cal.cutebit.de')
 
   // Open the DevTools.
-  mainWindow.webContents.openDevTools()
+  // mainWindow.webContents.openDevTools()
 
   // Emitted when the window is closed.
   mainWindow.on('closed', function () {
