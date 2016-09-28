@@ -20,7 +20,7 @@ function createWindow () {
   })
 
   // and load the index.html of the app.
-  mainWindow.loadURL('http://cal.cutebit.de')
+  mainWindow.loadURL('https://cal.cutebit.de')
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()
